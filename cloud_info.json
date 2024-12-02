@@ -1,0 +1,25 @@
+{
+  "data": {
+    "title": "Ghost`s_UA ModPack",
+    "game_version": "1.27.0.0",
+    "mods": [
+      {
+        "id_000":
+          {"version": "0.2",
+            "main_folder": "/mods",
+            "description": "Osnovni biblioteku",
+            "mods_url": "https://github.com/UnderPressurePH7/G_UA-mods/releases/download/mods_D5_20/sixthSense.zip"}
+
+      },
+      {
+        "id_001":
+          { "version": "0.2",
+            "main_folder": "/mods",
+            "description": "Pritsilu",
+            "mods_url": "https://github.com/UnderPressurePH7/G_UA-mods/releases/download/mods_X1_00_Con/res_mods.zip"}
+
+      }
+    ]
+  }
+}
+
